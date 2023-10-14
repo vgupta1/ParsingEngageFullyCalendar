@@ -1,0 +1,880 @@
+1. A Practitioner’s Guide to Digital Twin Development
+Part of SA01. A Practitioner's Guide to Digital Twin Development
+Sun, Oct 15
+8:00 – 9:15 AM MST
+ CC-North 120A
+
+
+1. Agricultural Index Insurance: An Optimization Approach
+Part of SA30. Agricultural and Environmental Operations
+Sun, Oct 15
+8:00 – 9:15 AM MST
+ CC-North 132C
+
+
+1. Algorithms with Predictions
+Part of SA08. APS Special Session: Algorithms with Predictions
+Sun, Oct 15
+8:00 – 9:15 AM MST
+ CC-North 122B
+
+
+1. Integrated Truck and Drone Delivery Systems
+Part of SA40. Delivery Systems Modeling with Emerging Vehicle Technologies
+Sun, Oct 15
+8:00 – 9:15 AM MST
+ CC-North 225A
+
+
+1. Muti-Stage Newsvendor Optimization for Capacity Planning 
+Part of SA31. Amazon Last Mile Resources Optimization
+Sun, Oct 15
+8:00 – 9:15 AM MST
+ CC-North 221A
+
+
+2. Aggregate Then Predict and Optimize: Addressing Uncertainties in Multi-Item Spare Part Inventory Systems
+Part of SA38. Learning and Optimization Algorithms
+Sun, Oct 15
+8:00 – 9:15 AM MST
+ CC-North 224A
+
+
+2. Exploring Nutritional Equity in Food Bank Supply Chains
+Part of SA54. Optimization and AI in Environment and Sustainability
+Sun, Oct 15
+8:00 – 9:15 AM MST
+ CC-North 231B
+
+
+3. A Continuous Approximation Model for Urban Electric Robotic Deliveries with Maintenance Costs 
+Part of SA40. Delivery Systems Modeling with Emerging Vehicle Technologies
+Sun, Oct 15
+8:00 – 9:15 AM MST
+ CC-North 225A
+
+
+3. Carbon-Aware Optimal Power Flow
+Part of SA53. Advanced Learning and Optimization for Carbon-Neutral Electricity
+Sun, Oct 15
+8:00 – 9:15 AM MST
+ CC-North 231A
+
+
+3. Load Balancing for Online Truck Routing
+Part of SA75. Optimization of Logistics Delivery Systems
+Sun, Oct 15
+8:00 – 9:15 AM MST
+CC-West 208A
+
+
+3. Optimizing Sampling Plans for Detecting Dangerous Medical Products in a Supply Chain
+Part of SA10. Healthcare Applications of Probability Theory
+Sun, Oct 15
+8:00 – 9:15 AM MST
+ CC-North 123
+
+
+3. Predicting Demand for Wildfire Suppression Resources
+Part of SA30. Agricultural and Environmental Operations
+Sun, Oct 15
+8:00 – 9:15 AM MST
+ CC-North 132C
+
+
+3. The K Traveling Repairman Problem with Stochastic Service Requests
+Part of SA41. Traveling Salesperson and Repairman Problems
+Sun, Oct 15
+8:00 – 9:15 AM MST
+ CC-North 225B
+
+
+1. Distributionally Robust Optimization: The Science of Underpromising and Overdelivering
+Part of SP01. Opening Plenary: IFORS Distinguished Lecture
+Sun, Oct 15
+9:30 – 10:35 AM MST
+ CC-West 301ABC
+
+
+1. Community-engaged School District Design: A Stream-based Approach
+Part of SB79. Doing Good with Good O.R.
+Sun, Oct 15
+10:45 AM – 12:00 PM MST
+CC-West 211B
+
+
+1. Disaggregating Power Outages From Disconnections: A Commonwealth Edison Case Study
+Part of SB46. Exploring Equity and Fairness in Public Services Administration
+Sun, Oct 15
+10:45 AM – 12:00 PM MST
+ CC-North 227B
+
+
+1. Sustainable Supply Chain for Recycling of Lithium-Ion Batteries in the United States
+Part of SB54. Sustainable Supply Chains and Recycling
+Sun, Oct 15
+10:45 AM – 12:00 PM MST
+ CC-North 231B
+
+
+2. Amplified Access for All: A Simulation and Metaheuristic Guided Approach to Psychiatric Inpatient Bed Redistribution
+Part of SB46. Exploring Equity and Fairness in Public Services Administration
+Sun, Oct 15
+10:45 AM – 12:00 PM MST
+ CC-North 227B
+
+
+2. Reducing Air Pollution Through Machine Learning
+Part of SB79. Doing Good with Good O.R.
+Sun, Oct 15
+10:45 AM – 12:00 PM MST
+CC-West 211B
+
+
+2. To Donate or Not to Donate: Optimal Policies for Supermarket In-Kind Donations to Food Banks
+Part of SB54. Sustainable Supply Chains and Recycling
+Sun, Oct 15
+10:45 AM – 12:00 PM MST
+ CC-North 231B
+
+
+3. A Novel Optimization Model with Python Package for Controlling Harmful Algal Blooms in Lake Okeechobee
+Part of SB54. Sustainable Supply Chains and Recycling
+Sun, Oct 15
+10:45 AM – 12:00 PM MST
+ CC-North 231B
+
+
+3. Analytics for Societal Impact: Improving Access to Volunteers on Volunteer Match
+Part of SB79. Doing Good with Good O.R.
+Sun, Oct 15
+10:45 AM – 12:00 PM MST
+CC-West 211B
+
+
+3. Heterogeneous Impact Of LIHEAP On Non-economic Measures Of Energy Consumption
+Part of SB46. Exploring Equity and Fairness in Public Services Administration
+Sun, Oct 15
+10:45 AM – 12:00 PM MST
+ CC-North 227B
+
+
+4. A Simulation-Based Approach to Improve Equitable Housing Coordination in New York City 
+Part of SB46. Exploring Equity and Fairness in Public Services Administration
+Sun, Oct 15
+10:45 AM – 12:00 PM MST
+ CC-North 227B
+
+
+4. Hartford HealthCare Improves Hospital Operations with Patient Outcome Predictions
+Part of SB79. Doing Good with Good O.R.
+Sun, Oct 15
+10:45 AM – 12:00 PM MST
+CC-West 211B
+
+
+4. The Impacts of Sustainable Supply Chain Strategies and Environmental Performance on Competitive Advantages 
+Part of SB54. Sustainable Supply Chains and Recycling
+Sun, Oct 15
+10:45 AM – 12:00 PM MST
+ CC-North 231B
+
+
+1. Learning for Robust Optimization
+Part of SC45. Learning for Optimization: Performance and Robustness
+Sun, Oct 15
+12:45 – 2:00 PM MST
+ CC-North 227A
+
+
+1. Maximum Optimality Margin: A Unified Approach for Contextual Linear Programming and Inverse Linear Programming
+Part of SC29. New Models and Algorithms for Resource Allocation Problems
+Sun, Oct 15
+12:45 – 2:00 PM MST
+ CC-North 132B
+
+
+2. End-to-End Learning to Warm-Start Fixed Point Optimizers
+Part of SC45. Learning for Optimization: Performance and Robustness
+Sun, Oct 15
+12:45 – 2:00 PM MST
+ CC-North 227A
+
+
+3. Data-Driven Performance Certification of First Order Methods for Parametric Quadratic Optimization
+Part of SC45. Learning for Optimization: Performance and Robustness
+Sun, Oct 15
+12:45 – 2:00 PM MST
+ CC-North 227A
+
+
+4. A Differentiable Architecture for Mixed-Integer Optimization
+Part of SC45. Learning for Optimization: Performance and Robustness
+Sun, Oct 15
+12:45 – 2:00 PM MST
+ CC-North 227A
+
+
+4. Costly Data Sampling in the Newsvendor Problem
+Part of SC29. New Models and Algorithms for Resource Allocation Problems
+Sun, Oct 15
+12:45 – 2:00 PM MST
+ CC-North 132B
+
+
+1. Group Fairness in Dynamic Refugee Assignment 
+Part of SD61. Equity and Fairness in Resource Allocation Settings
+Sun, Oct 15
+2:15 – 3:30 PM MST
+ CC-West  101C
+
+
+1. Impact Analysis of Environmental Policies on Liner Ship Fleet Planning Under Demand Uncertainty
+Part of SD78. Carbon Emission Analysis in Supply Chains
+Sun, Oct 15
+2:15 – 3:30 PM MST
+CC-West 211A
+
+
+2. Estimate Supply Chain Emission Using Large Language Model
+Part of SD78. Carbon Emission Analysis in Supply Chains
+Sun, Oct 15
+2:15 – 3:30 PM MST
+CC-West 211A
+
+
+2. Learning Optimal Fair Decision Trees: Trade-Offs Between Interpretability, Fairness, and Accuracy
+Part of SD61. Equity and Fairness in Resource Allocation Settings
+Sun, Oct 15
+2:15 – 3:30 PM MST
+ CC-West  101C
+
+
+2. Supply Chain Contracting Under Nonparametric Demands
+Part of SD29. Value Chain Innovation: Pricing, Market Expansion, and Demand Learning
+Sun, Oct 15
+2:15 – 3:30 PM MST
+ CC-North 132B
+
+
+3. Disambiguation of Product Expense Data for Carbon Emission Estimation
+Part of SD78. Carbon Emission Analysis in Supply Chains
+Sun, Oct 15
+2:15 – 3:30 PM MST
+CC-West 211A
+
+
+3. Pyepo: A Pytorch-Based End-To-End Predict-Then-Optimize Library for Linear and Integer Programming
+Part of SD45. Machine Learning for Integer Programming
+Sun, Oct 15
+2:15 – 3:30 PM MST
+ CC-North 227A
+
+
+3. The Determinants of U.S. College Admission
+Part of SD61. Equity and Fairness in Resource Allocation Settings
+Sun, Oct 15
+2:15 – 3:30 PM MST
+ CC-West  101C
+
+
+4. Data-Driven Design of Index-Based Yield Protection Policy
+Part of SD28. Socially Responsible and Sustainable Supply Chain Management
+Sun, Oct 15
+2:15 – 3:30 PM MST
+ CC-North 132A
+
+
+4. Protecting Vulnerable Communities From Flooding Under Climate Change
+Part of SD61. Equity and Fairness in Resource Allocation Settings
+Sun, Oct 15
+2:15 – 3:30 PM MST
+ CC-West  101C
+
+
+4. Scope-Based Corporate Carbon Footprint Accounting and Reporting: Insights from a Real-World Application 
+Part of SD78. Carbon Emission Analysis in Supply Chains
+Sun, Oct 15
+2:15 – 3:30 PM MST
+CC-West 211A
+
+
+5. Shipment Monitoring, Allocation and the Impact on Food Waste
+Part of SD28. Socially Responsible and Sustainable Supply Chain Management
+Sun, Oct 15
+2:15 – 3:30 PM MST
+ CC-North 132A
+
+
+3. Predictive 3D Printing with IoT
+Part of SE29. New Technologies in Operations Management
+Sun, Oct 15
+4:00 – 5:15 PM MST
+ CC-North 132B
+
+
+4. Dynamic Feature-Based Newsvendor
+Part of SE44. AI in Supply Chain Management
+Sun, Oct 15
+4:00 – 5:15 PM MST
+ CC-North 226C
+
+
+1. Machine Learning-Based Vision for Additive Manufacturing Process
+Part of MA58. Digital Twins and AI Applications
+Mon, Oct 16
+8:00 – 9:15 AM MST
+ CC-North 232C
+
+
+1. School Bus Routing Problem with Open Offer Policy: Incentive Pricing Strategy for Students that Opt-Out Using School Bus
+Part of MA75. On Bus Transportation System Planning
+Mon, Oct 16
+8:00 – 9:15 AM MST
+CC-West 208A
+
+
+2. Simulation and Digital Twin: Bridging the Gap
+Part of MA58. Digital Twins and AI Applications
+Mon, Oct 16
+8:00 – 9:15 AM MST
+ CC-North 232C
+
+
+2. Strategies for the Electric Bus Scheduling Problem with Battery Degradation: A Stochastic Perspective
+Part of MA75. On Bus Transportation System Planning
+Mon, Oct 16
+8:00 – 9:15 AM MST
+CC-West 208A
+
+
+2. The Sort-Assemble-Blend Routing Problem and its Application to Semiconductors
+Part of MA79. Daniel H. Wagner Prize
+Mon, Oct 16
+8:00 – 9:15 AM MST
+CC-West 211B
+
+
+3. Procurement for Assembly Systems Under Disruption Risk: Optimal Mechanisms
+Part of MA29. Optimizing Supply Chain Operations
+Mon, Oct 16
+8:00 – 9:15 AM MST
+ CC-North 132B
+
+
+3. The On-Demand Bus Routing Problem
+Part of MA75. On Bus Transportation System Planning
+Mon, Oct 16
+8:00 – 9:15 AM MST
+CC-West 208A
+
+
+4. A Scheduling Framework for Real-Time Large-Scale Job Shop Scheduling
+Part of MA58. Digital Twins and AI Applications
+Mon, Oct 16
+8:00 – 9:15 AM MST
+ CC-North 232C
+
+
+4. Data-Driven Condition-Based Maintenance for Perpetual Systems
+Part of MA29. Optimizing Supply Chain Operations
+Mon, Oct 16
+8:00 – 9:15 AM MST
+ CC-North 132B
+
+
+4. Service Fleet Transition Planning Using Electric Vehicles for Sustainable Urban Transportation
+Part of MA75. On Bus Transportation System Planning
+Mon, Oct 16
+8:00 – 9:15 AM MST
+CC-West 208A
+
+
+5. Bus Line Design for On-Demand Multimodal Transit Systems
+Part of MA75. On Bus Transportation System Planning
+Mon, Oct 16
+8:00 – 9:15 AM MST
+CC-West 208A
+
+
+1. A Model for Perishable Inventory Management in Cold Chains
+Part of MB84. Agricultural Supply Chains
+Mon, Oct 16
+10:45 AM – 12:00 PM MST
+CC-West 213B
+
+
+1. Sample Complexity of Policy Learningfor Inventory Control with Censored Demand
+Part of MB28. Emerging Topics in Inventory and Revenue Management
+Mon, Oct 16
+10:45 AM – 12:00 PM MST
+ CC-North 132A
+
+
+2. A Study of Cold Chain Practices Across Four Sectors
+Part of MB84. Agricultural Supply Chains
+Mon, Oct 16
+10:45 AM – 12:00 PM MST
+CC-West 213B
+
+
+2. M/M/s on Demand: Queues with On-Demand and Reserved Servers
+Part of MB28. Emerging Topics in Inventory and Revenue Management
+Mon, Oct 16
+10:45 AM – 12:00 PM MST
+ CC-North 132A
+
+
+3. Blockchain-enabled Traceability Of Greenhouse Gas Emissions: Evidence From Moroccan Agriculture Production 
+Part of MB84. Agricultural Supply Chains
+Mon, Oct 16
+10:45 AM – 12:00 PM MST
+CC-West 213B
+
+
+3. Selling to a Market with a Finite Population
+Part of MB28. Emerging Topics in Inventory and Revenue Management
+Mon, Oct 16
+10:45 AM – 12:00 PM MST
+ CC-North 132A
+
+
+4. Multi-Product Dynamic Upgrades
+Part of MB28. Emerging Topics in Inventory and Revenue Management
+Mon, Oct 16
+10:45 AM – 12:00 PM MST
+ CC-North 132A
+
+
+4. The Economics and Optimal Design of Indoor Farming Supply Chains
+Part of MB84. Agricultural Supply Chains
+Mon, Oct 16
+10:45 AM – 12:00 PM MST
+CC-West 213B
+
+
+5. Taylor Approximation of Inventory Policies for One-Warehouse, Multi-Retailer Systems with Demand Feature Information
+Part of MB28. Emerging Topics in Inventory and Revenue Management
+Mon, Oct 16
+10:45 AM – 12:00 PM MST
+ CC-North 132A
+
+
+1. Data Valuation from Data-Driven Optimization
+Part of MC80. Recent Advances in Stochastic Optimization
+Mon, Oct 16
+12:45 – 2:00 PM MST
+CC-West 212A
+
+
+3. Order Fulfillment Optimization at Amazon	
+Part of MC31. Amazon Supply Chain Optimization
+Mon, Oct 16
+12:45 – 2:00 PM MST
+ CC-North 221A
+
+
+5. Smart Information Systems for Real-Time AI-Driven Decision Support in Ports
+Part of MC84. Global Supply Chains
+Mon, Oct 16
+12:45 – 2:00 PM MST
+CC-West 213B
+
+
+1. Dynamic Budget Allocation for Public Health Procurement: A Multi-Product Inventory Model with Partial Backlogging
+Part of MD62. PSOR Best Paper Award Finalists
+Mon, Oct 16
+2:15 – 3:30 PM MST
+ CC-West 102A
+
+
+2. Index-Based Yield Protection for Smallholder Farmers
+Part of MD28. Emerging Issues in Sustainable Supply Chains
+Mon, Oct 16
+2:15 – 3:30 PM MST
+ CC-North 132A
+
+
+2. Leapfrogging for Last-Mile Delivery in Health Care: Drone Delivery for Blood Products in Rwanda
+Part of MD62. PSOR Best Paper Award Finalists
+Mon, Oct 16
+2:15 – 3:30 PM MST
+ CC-West 102A
+
+
+3. Food Subsidies at the Base-of-the-Pyramid: Take-Up, Substitution Effects and Nutrition
+Part of MD62. PSOR Best Paper Award Finalists
+Mon, Oct 16
+2:15 – 3:30 PM MST
+ CC-West 102A
+
+
+3. Reducing Lead and CO2 Emissions from a Deadly Circular Economy
+Part of MD28. Emerging Issues in Sustainable Supply Chains
+Mon, Oct 16
+2:15 – 3:30 PM MST
+ CC-North 132A
+
+
+4. Influence of Irrelevant Alternatives on Choices with Environmental Attributes
+Part of MD28. Emerging Issues in Sustainable Supply Chains
+Mon, Oct 16
+2:15 – 3:30 PM MST
+ CC-North 132A
+
+
+4. Planning Bike Lanes with Data: Ridership, Congestion, and Path Selection
+Part of MD62. PSOR Best Paper Award Finalists
+Mon, Oct 16
+2:15 – 3:30 PM MST
+ CC-West 102A
+
+
+5. Treatment Planning of Victims with Heterogeneous Time-Sensitivities in Mass Casualty Incidents
+Part of MD62. PSOR Best Paper Award Finalists
+Mon, Oct 16
+2:15 – 3:30 PM MST
+ CC-West 102A
+
+
+1. Efficient Algorithms for Minimizing Compositions of Convex Functions and Random Functions and Its Applications in Network Revenue Management
+Part of ME06. Network Revenue Management and Supply Chain Interface
+Mon, Oct 16
+4:00 – 5:15 PM MST
+ CC-North 121C
+
+
+2. The Golden Geese Problem
+Part of ME06. Network Revenue Management and Supply Chain Interface
+Mon, Oct 16
+4:00 – 5:15 PM MST
+ CC-North 121C
+
+
+3. Combining a Smart Pricing Policy with a Simple Replenishment Policy: Managing Uncertainties in the Presence of Stochastic Purchase Returns
+Part of ME06. Network Revenue Management and Supply Chain Interface
+Mon, Oct 16
+4:00 – 5:15 PM MST
+ CC-North 121C
+
+
+4. Dynamic Control in On-Demand Inventory Sharing Networks
+Part of ME06. Network Revenue Management and Supply Chain Interface
+Mon, Oct 16
+4:00 – 5:15 PM MST
+ CC-North 121C
+
+
+1. Data-driven Decisions In Supply Chains: Contracts, Algorithms And Efficiency
+Part of TA28. Data and Operations
+Tue, Oct 17
+8:00 – 9:15 AM MST
+ CC-North 132A
+
+
+2. Planning Bike Lanes with Data: Ridership, Congestion, and Path Selection
+Part of TA28. Data and Operations
+Tue, Oct 17
+8:00 – 9:15 AM MST
+ CC-North 132A
+
+
+3. Attribute-Based Pricing: A Novel Formulation and Convergent Algorithms
+Part of TA28. Data and Operations
+Tue, Oct 17
+8:00 – 9:15 AM MST
+ CC-North 132A
+
+
+4. Reinforcement Learning For Pricing And Inventory Control Under Censored Demand
+Part of TA28. Data and Operations
+Tue, Oct 17
+8:00 – 9:15 AM MST
+ CC-North 132A
+
+
+1. Data-Driven Population Tracking in Large Service Systems
+Part of TB28. Data-Driven Methods for Supply Chain Management
+Tue, Oct 17
+10:45 AM – 12:00 PM MST
+ CC-North 132A
+
+
+1. Enhancing Early Childhood Education Outcomes Through Personalized Behavioral Nudges in Resource-Constrained Settings: A Data-Driven Approach
+Part of TB45. Social Good
+Tue, Oct 17
+10:45 AM – 12:00 PM MST
+ CC-North 227A
+
+
+1. Restoration of Forest Linear Disturbances from Oil-And-Gas Exploration: How Can Network Models Help?
+Part of TB51. Wild Fire Mitigation and Forest Harvest Planning
+Tue, Oct 17
+10:45 AM – 12:00 PM MST
+ CC-North 229B
+
+
+1. Sequential Fair Resource Allocation Under a Markov Decision Process Framework
+Part of TB11. Fairness in Decision-Making
+Tue, Oct 17
+10:45 AM – 12:00 PM MST
+ CC-North 124A
+
+
+2. Application of Machine-learning Models for Wildfire Prediction in South Korea
+Part of TB51. Wild Fire Mitigation and Forest Harvest Planning
+Tue, Oct 17
+10:45 AM – 12:00 PM MST
+ CC-North 229B
+
+
+2. Assortment Optimization Under the Multivariate MNL Model
+Part of TB28. Data-Driven Methods for Supply Chain Management
+Tue, Oct 17
+10:45 AM – 12:00 PM MST
+ CC-North 132A
+
+
+2. Fairness and Budget Flexibility: Advancements in Restless Multi-Armed Bandits for Real-World Planning
+Part of TB11. Fairness in Decision-Making
+Tue, Oct 17
+10:45 AM – 12:00 PM MST
+ CC-North 124A
+
+
+2. Optimization Hierarchy for Fair Statistical Decision Problems
+Part of TB16. Fairness in Optimization Models from Operations Management
+Tue, Oct 17
+10:45 AM – 12:00 PM MST
+ CC-North 126B
+
+
+2. Survival Bandits
+Part of TB45. Social Good
+Tue, Oct 17
+10:45 AM – 12:00 PM MST
+ CC-North 227A
+
+
+3. A Dynamic Learning Policy for Multi-Warehouse Multi-Store Systems with Censored Demands
+Part of TB28. Data-Driven Methods for Supply Chain Management
+Tue, Oct 17
+10:45 AM – 12:00 PM MST
+ CC-North 132A
+
+
+3. A Stochastic Model for Forest Harvest Planning Problem
+Part of TB51. Wild Fire Mitigation and Forest Harvest Planning
+Tue, Oct 17
+10:45 AM – 12:00 PM MST
+ CC-North 229B
+
+
+3. Robust, Balanced Dynamic Matching and Its Application to Refugee Resettlement
+Part of TB45. Social Good
+Tue, Oct 17
+10:45 AM – 12:00 PM MST
+ CC-North 227A
+
+
+3. Stochastic Online Fisher Markets: Static Pricing Limits and Adaptive Enhancements
+Part of TB11. Fairness in Decision-Making
+Tue, Oct 17
+10:45 AM – 12:00 PM MST
+ CC-North 124A
+
+
+4. Fairness Auditing in Urban Decisions Using Lp-Based Data Combination
+Part of TB11. Fairness in Decision-Making
+Tue, Oct 17
+10:45 AM – 12:00 PM MST
+ CC-North 124A
+
+
+4. Learning and Planning Under Uncertainty for Wildlife Conservation 
+Part of TB45. Social Good
+Tue, Oct 17
+10:45 AM – 12:00 PM MST
+ CC-North 227A
+
+
+4. Unit Commitment without Commitment: A Dynamic Framework for Managing an Integrated Energy System
+Part of TB28. Data-Driven Methods for Supply Chain Management
+Tue, Oct 17
+10:45 AM – 12:00 PM MST
+ CC-North 132A
+
+
+1. Assessing the Resilience of Supply Chains to Climate Change:Building a Climate-Resilient Supply Chain and Enhancing Competitiveness
+Part of TC76. Supply Chain Risk and Resilience
+Tue, Oct 17
+12:45 – 2:00 PM MST
+CC-West 208B
+
+
+1. Can Tax-Subsidies for Charitable Donations Foster Accessibility to Fresh Goods?
+Part of TC28. Supply Chains, Operations, and ESG Outcomes
+Tue, Oct 17
+12:45 – 2:00 PM MST
+ CC-North 132A
+
+
+2. Enhancing Transportation Network Resiliency: Pre-Event Disaster Mitigation Interventions
+Part of TC61. Disaster Management & Humanitarian Logistics
+Tue, Oct 17
+12:45 – 2:00 PM MST
+ CC-West  101C
+
+
+2. Improving Labor Outcomes: The Role of Operations and Supply Chains
+Part of TC28. Supply Chains, Operations, and ESG Outcomes
+Tue, Oct 17
+12:45 – 2:00 PM MST
+ CC-North 132A
+
+
+2. Research on the Impact of Supply Chain Network Structure on Firm Innovation Performance
+Part of TC76. Supply Chain Risk and Resilience
+Tue, Oct 17
+12:45 – 2:00 PM MST
+CC-West 208B
+
+
+3. Forecasting Estimated Arrival Time (ETA) with Confidence for Supply Shipments in a Globalized Supply Chain
+Part of TC76. Supply Chain Risk and Resilience
+Tue, Oct 17
+12:45 – 2:00 PM MST
+CC-West 208B
+
+
+3. Plastic Recycling in Agriculture Industry
+Part of TC28. Supply Chains, Operations, and ESG Outcomes
+Tue, Oct 17
+12:45 – 2:00 PM MST
+ CC-North 132A
+
+
+4. Resilience and Digital Transformation of the Food Supply Chains
+Part of TC76. Supply Chain Risk and Resilience
+Tue, Oct 17
+12:45 – 2:00 PM MST
+CC-West 208B
+
+
+1. Clustering and Reinforcement Learning Approaches in Digital Supply Chains Analytics
+Part of TD26. Analytics in Complex Supply Chains
+Tue, Oct 17
+2:15 – 3:30 PM MST
+ CC-North 131B
+
+
+1. Data Privacy in Pricing: Estimation Bias and Implications 				 			 		
+Part of TD07. Learning and Decision-Making in Operations Management
+Tue, Oct 17
+2:15 – 3:30 PM MST
+ CC-North 122A
+
+
+2. Active Label Acquisition with Personalized Incentives in Assortment Optimization
+Part of TD07. Learning and Decision-Making in Operations Management
+Tue, Oct 17
+2:15 – 3:30 PM MST
+ CC-North 122A
+
+
+2. Optimal Resource Allocation for Remediating Networked Contagions
+Part of TD26. Analytics in Complex Supply Chains
+Tue, Oct 17
+2:15 – 3:30 PM MST
+ CC-North 131B
+
+
+3. Estimate-then-optimize Versus Integrated-estimation-optimization Versus Sample Average Approximation: A Stochastic Dominance Perspective
+Part of TD07. Learning and Decision-Making in Operations Management
+Tue, Oct 17
+2:15 – 3:30 PM MST
+ CC-North 122A
+
+
+3. Platform Design for the First Mile of Commodity Supply Chains
+Part of TD26. Analytics in Complex Supply Chains
+Tue, Oct 17
+2:15 – 3:30 PM MST
+ CC-North 131B
+
+
+4. Pasta: Pessimistic Assortment Optimization
+Part of TD07. Learning and Decision-Making in Operations Management
+Tue, Oct 17
+2:15 – 3:30 PM MST
+ CC-North 122A
+
+
+4. The Operational Origins of Child Labor in Cocoa Production
+Part of TD26. Analytics in Complex Supply Chains
+Tue, Oct 17
+2:15 – 3:30 PM MST
+ CC-North 131B
+
+
+5. Best Arm Identification in Batched Multi-Armed Bandit Problems
+Part of TD07. Learning and Decision-Making in Operations Management
+Tue, Oct 17
+2:15 – 3:30 PM MST
+ CC-North 122A
+
+
+1. An (Empirical) Law of Data Separation in Deep Learning
+Part of TE37. Understanding Generalization of Optimization Algorithms in Machine Learning
+Tue, Oct 17
+4:00 – 5:15 PM MST
+ CC-North 223
+
+
+2. On the Role of Attention in Prompt-Tuning
+Part of TE37. Understanding Generalization of Optimization Algorithms in Machine Learning
+Tue, Oct 17
+4:00 – 5:15 PM MST
+ CC-North 223
+
+
+3. Optimization and Generalization for Contrastive Self-Supervised Learning
+Part of TE37. Understanding Generalization of Optimization Algorithms in Machine Learning
+Tue, Oct 17
+4:00 – 5:15 PM MST
+ CC-North 223
+
+
+1. A Data-Driven Strategy to Predict Incident Hotspots
+Part of WB45. Machine Learning Applications in Disaster Management
+Wed, Oct 18
+9:30 – 10:45 AM MST
+ CC-North 227A
+
+
+2. Surge Level Responses in Emergency Medical Services
+Part of WB45. Machine Learning Applications in Disaster Management
+Wed, Oct 18
+9:30 – 10:45 AM MST
+ CC-North 227A
+
+
+3. Integrating Ml-Based Reverse Engineering of Cge Models with Optimization for Enhancing Resilience
+Part of WB45. Machine Learning Applications in Disaster Management
+Wed, Oct 18
+9:30 – 10:45 AM MST
+ CC-North 227A
+
+
+4. Monitoring the Mental Health of Individuals Post Earthquake Through Space Time Textual Analysis
+Part of WB45. Machine Learning Applications in Disaster Management
+Wed, Oct 18
+9:30 – 10:45 AM MST
+ CC-North 227A
+
+
+5. A Deep Learning Approach for Predicting Traffic During Evacuation Using Social and Infrastructure Sensors Data: A Case Study from Hurricane Ian
+Part of WB45. Machine Learning Applications in Disaster Management
+Wed, Oct 18
+9:30 – 10:45 AM MST
+ CC-North 227A

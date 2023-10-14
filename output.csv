@@ -1,0 +1,127 @@
+Subject,Start Date,Start Time,End Date,End Time,Description,Location
+Talk 1 A Practitioner’s Guide to Digital Twin Development,10/15/2023,8:00 AM,10/15/2023,9:15 AM,Part of SA01. A Practitioner's Guide to Digital Twin Development,CC-North 120A
+Talk 1 Agricultural Index Insurance: An Optimization Approach,10/15/2023,8:00 AM,10/15/2023,9:15 AM,Part of SA30. Agricultural and Environmental Operations,CC-North 132C
+Talk 1 Algorithms with Predictions,10/15/2023,8:00 AM,10/15/2023,9:15 AM,Part of SA08. APS Special Session: Algorithms with Predictions,CC-North 122B
+Talk 1 Integrated Truck and Drone Delivery Systems,10/15/2023,8:00 AM,10/15/2023,9:15 AM,Part of SA40. Delivery Systems Modeling with Emerging Vehicle Technologies,CC-North 225A
+Talk 1 Muti-Stage Newsvendor Optimization for Capacity Planning,10/15/2023,8:00 AM,10/15/2023,9:15 AM,Part of SA31. Amazon Last Mile Resources Optimization,CC-North 221A
+Talk 2 Aggregate Then Predict and Optimize: Addressing Uncertainties in Multi-Item Spare Part Inventory Systems,10/15/2023,8:00 AM,10/15/2023,9:15 AM,Part of SA38. Learning and Optimization Algorithms,CC-North 224A
+Talk 2 Exploring Nutritional Equity in Food Bank Supply Chains,10/15/2023,8:00 AM,10/15/2023,9:15 AM,Part of SA54. Optimization and AI in Environment and Sustainability,CC-North 231B
+Talk 3 A Continuous Approximation Model for Urban Electric Robotic Deliveries with Maintenance Costs,10/15/2023,8:00 AM,10/15/2023,9:15 AM,Part of SA40. Delivery Systems Modeling with Emerging Vehicle Technologies,CC-North 225A
+Talk 3 Carbon-Aware Optimal Power Flow,10/15/2023,8:00 AM,10/15/2023,9:15 AM,Part of SA53. Advanced Learning and Optimization for Carbon-Neutral Electricity,CC-North 231A
+Talk 3 Load Balancing for Online Truck Routing,10/15/2023,8:00 AM,10/15/2023,9:15 AM,Part of SA75. Optimization of Logistics Delivery Systems,CC-West 208A
+Talk 3 Optimizing Sampling Plans for Detecting Dangerous Medical Products in a Supply Chain,10/15/2023,8:00 AM,10/15/2023,9:15 AM,Part of SA10. Healthcare Applications of Probability Theory,CC-North 123
+Talk 3 Predicting Demand for Wildfire Suppression Resources,10/15/2023,8:00 AM,10/15/2023,9:15 AM,Part of SA30. Agricultural and Environmental Operations,CC-North 132C
+Talk 3 The K Traveling Repairman Problem with Stochastic Service Requests,10/15/2023,8:00 AM,10/15/2023,9:15 AM,Part of SA41. Traveling Salesperson and Repairman Problems,CC-North 225B
+Talk 1 Distributionally Robust Optimization: The Science of Underpromising and Overdelivering,10/15/2023,9:30 AM,10/15/2023,10:35 AM,Part of SP01. Opening Plenary: IFORS Distinguished Lecture,CC-West 301ABC
+Talk 1 Community-engaged School District Design: A Stream-based Approach,10/15/2023,10:45 AM,10/15/2023,12:00 PM,Part of SB79. Doing Good with Good O.R.,CC-West 211B
+Talk 1 Disaggregating Power Outages From Disconnections: A Commonwealth Edison Case Study,10/15/2023,10:45 AM,10/15/2023,12:00 PM,Part of SB46. Exploring Equity and Fairness in Public Services Administration,CC-North 227B
+Talk 1 Sustainable Supply Chain for Recycling of Lithium-Ion Batteries in the United States,10/15/2023,10:45 AM,10/15/2023,12:00 PM,Part of SB54. Sustainable Supply Chains and Recycling,CC-North 231B
+Talk 2 Amplified Access for All: A Simulation and Metaheuristic Guided Approach to Psychiatric Inpatient Bed Redistribution,10/15/2023,10:45 AM,10/15/2023,12:00 PM,Part of SB46. Exploring Equity and Fairness in Public Services Administration,CC-North 227B
+Talk 2 Reducing Air Pollution Through Machine Learning,10/15/2023,10:45 AM,10/15/2023,12:00 PM,Part of SB79. Doing Good with Good O.R.,CC-West 211B
+Talk 2 To Donate or Not to Donate: Optimal Policies for Supermarket In-Kind Donations to Food Banks,10/15/2023,10:45 AM,10/15/2023,12:00 PM,Part of SB54. Sustainable Supply Chains and Recycling,CC-North 231B
+Talk 3 A Novel Optimization Model with Python Package for Controlling Harmful Algal Blooms in Lake Okeechobee,10/15/2023,10:45 AM,10/15/2023,12:00 PM,Part of SB54. Sustainable Supply Chains and Recycling,CC-North 231B
+Talk 3 Analytics for Societal Impact: Improving Access to Volunteers on Volunteer Match,10/15/2023,10:45 AM,10/15/2023,12:00 PM,Part of SB79. Doing Good with Good O.R.,CC-West 211B
+Talk 3 Heterogeneous Impact Of LIHEAP On Non-economic Measures Of Energy Consumption,10/15/2023,10:45 AM,10/15/2023,12:00 PM,Part of SB46. Exploring Equity and Fairness in Public Services Administration,CC-North 227B
+Talk 4 A Simulation-Based Approach to Improve Equitable Housing Coordination in New York City,10/15/2023,10:45 AM,10/15/2023,12:00 PM,Part of SB46. Exploring Equity and Fairness in Public Services Administration,CC-North 227B
+Talk 4 Hartford HealthCare Improves Hospital Operations with Patient Outcome Predictions,10/15/2023,10:45 AM,10/15/2023,12:00 PM,Part of SB79. Doing Good with Good O.R.,CC-West 211B
+Talk 4 The Impacts of Sustainable Supply Chain Strategies and Environmental Performance on Competitive Advantages,10/15/2023,10:45 AM,10/15/2023,12:00 PM,Part of SB54. Sustainable Supply Chains and Recycling,CC-North 231B
+Talk 1 Learning for Robust Optimization,10/15/2023,12:45 PM,10/15/2023,2:00 PM,Part of SC45. Learning for Optimization: Performance and Robustness,CC-North 227A
+Talk 1 Maximum Optimality Margin: A Unified Approach for Contextual Linear Programming and Inverse Linear Programming,10/15/2023,12:45 PM,10/15/2023,2:00 PM,Part of SC29. New Models and Algorithms for Resource Allocation Problems,CC-North 132B
+Talk 2 End-to-End Learning to Warm-Start Fixed Point Optimizers,10/15/2023,12:45 PM,10/15/2023,2:00 PM,Part of SC45. Learning for Optimization: Performance and Robustness,CC-North 227A
+Talk 3 Data-Driven Performance Certification of First Order Methods for Parametric Quadratic Optimization,10/15/2023,12:45 PM,10/15/2023,2:00 PM,Part of SC45. Learning for Optimization: Performance and Robustness,CC-North 227A
+Talk 4 A Differentiable Architecture for Mixed-Integer Optimization,10/15/2023,12:45 PM,10/15/2023,2:00 PM,Part of SC45. Learning for Optimization: Performance and Robustness,CC-North 227A
+Talk 4 Costly Data Sampling in the Newsvendor Problem,10/15/2023,12:45 PM,10/15/2023,2:00 PM,Part of SC29. New Models and Algorithms for Resource Allocation Problems,CC-North 132B
+Talk 1 Group Fairness in Dynamic Refugee Assignment,10/15/2023,2:15 PM,10/15/2023,3:30 PM,Part of SD61. Equity and Fairness in Resource Allocation Settings,CC-West  101C
+Talk 1 Impact Analysis of Environmental Policies on Liner Ship Fleet Planning Under Demand Uncertainty,10/15/2023,2:15 PM,10/15/2023,3:30 PM,Part of SD78. Carbon Emission Analysis in Supply Chains,CC-West 211A
+Talk 2 Estimate Supply Chain Emission Using Large Language Model,10/15/2023,2:15 PM,10/15/2023,3:30 PM,Part of SD78. Carbon Emission Analysis in Supply Chains,CC-West 211A
+"Talk 2 Learning Optimal Fair Decision Trees: Trade-Offs Between Interpretability, Fairness, and Accuracy",10/15/2023,2:15 PM,10/15/2023,3:30 PM,Part of SD61. Equity and Fairness in Resource Allocation Settings,CC-West  101C
+Talk 2 Supply Chain Contracting Under Nonparametric Demands,10/15/2023,2:15 PM,10/15/2023,3:30 PM,"Part of SD29. Value Chain Innovation: Pricing, Market Expansion, and Demand Learning",CC-North 132B
+Talk 3 Disambiguation of Product Expense Data for Carbon Emission Estimation,10/15/2023,2:15 PM,10/15/2023,3:30 PM,Part of SD78. Carbon Emission Analysis in Supply Chains,CC-West 211A
+Talk 3 Pyepo: A Pytorch-Based End-To-End Predict-Then-Optimize Library for Linear and Integer Programming,10/15/2023,2:15 PM,10/15/2023,3:30 PM,Part of SD45. Machine Learning for Integer Programming,CC-North 227A
+Talk 3 The Determinants of U.S. College Admission,10/15/2023,2:15 PM,10/15/2023,3:30 PM,Part of SD61. Equity and Fairness in Resource Allocation Settings,CC-West  101C
+Talk 4 Data-Driven Design of Index-Based Yield Protection Policy,10/15/2023,2:15 PM,10/15/2023,3:30 PM,Part of SD28. Socially Responsible and Sustainable Supply Chain Management,CC-North 132A
+Talk 4 Protecting Vulnerable Communities From Flooding Under Climate Change,10/15/2023,2:15 PM,10/15/2023,3:30 PM,Part of SD61. Equity and Fairness in Resource Allocation Settings,CC-West  101C
+Talk 4 Scope-Based Corporate Carbon Footprint Accounting and Reporting: Insights from a Real-World Application,10/15/2023,2:15 PM,10/15/2023,3:30 PM,Part of SD78. Carbon Emission Analysis in Supply Chains,CC-West 211A
+"Talk 5 Shipment Monitoring, Allocation and the Impact on Food Waste",10/15/2023,2:15 PM,10/15/2023,3:30 PM,Part of SD28. Socially Responsible and Sustainable Supply Chain Management,CC-North 132A
+Talk 3 Predictive 3D Printing with IoT,10/15/2023,4:00 PM,10/15/2023,5:15 PM,Part of SE29. New Technologies in Operations Management,CC-North 132B
+Talk 4 Dynamic Feature-Based Newsvendor,10/15/2023,4:00 PM,10/15/2023,5:15 PM,Part of SE44. AI in Supply Chain Management,CC-North 226C
+Talk 1 Machine Learning-Based Vision for Additive Manufacturing Process,10/16/2023,8:00 AM,10/16/2023,9:15 AM,Part of MA58. Digital Twins and AI Applications,CC-North 232C
+Talk 1 School Bus Routing Problem with Open Offer Policy: Incentive Pricing Strategy for Students that Opt-Out Using School Bus,10/16/2023,8:00 AM,10/16/2023,9:15 AM,Part of MA75. On Bus Transportation System Planning,CC-West 208A
+Talk 2 Simulation and Digital Twin: Bridging the Gap,10/16/2023,8:00 AM,10/16/2023,9:15 AM,Part of MA58. Digital Twins and AI Applications,CC-North 232C
+Talk 2 Strategies for the Electric Bus Scheduling Problem with Battery Degradation: A Stochastic Perspective,10/16/2023,8:00 AM,10/16/2023,9:15 AM,Part of MA75. On Bus Transportation System Planning,CC-West 208A
+Talk 2 The Sort-Assemble-Blend Routing Problem and its Application to Semiconductors,10/16/2023,8:00 AM,10/16/2023,9:15 AM,Part of MA79. Daniel H. Wagner Prize,CC-West 211B
+Talk 3 Procurement for Assembly Systems Under Disruption Risk: Optimal Mechanisms,10/16/2023,8:00 AM,10/16/2023,9:15 AM,Part of MA29. Optimizing Supply Chain Operations,CC-North 132B
+Talk 3 The On-Demand Bus Routing Problem,10/16/2023,8:00 AM,10/16/2023,9:15 AM,Part of MA75. On Bus Transportation System Planning,CC-West 208A
+Talk 4 A Scheduling Framework for Real-Time Large-Scale Job Shop Scheduling,10/16/2023,8:00 AM,10/16/2023,9:15 AM,Part of MA58. Digital Twins and AI Applications,CC-North 232C
+Talk 4 Data-Driven Condition-Based Maintenance for Perpetual Systems,10/16/2023,8:00 AM,10/16/2023,9:15 AM,Part of MA29. Optimizing Supply Chain Operations,CC-North 132B
+Talk 4 Service Fleet Transition Planning Using Electric Vehicles for Sustainable Urban Transportation,10/16/2023,8:00 AM,10/16/2023,9:15 AM,Part of MA75. On Bus Transportation System Planning,CC-West 208A
+Talk 5 Bus Line Design for On-Demand Multimodal Transit Systems,10/16/2023,8:00 AM,10/16/2023,9:15 AM,Part of MA75. On Bus Transportation System Planning,CC-West 208A
+Talk 1 A Model for Perishable Inventory Management in Cold Chains,10/16/2023,10:45 AM,10/16/2023,12:00 PM,Part of MB84. Agricultural Supply Chains,CC-West 213B
+Talk 1 Sample Complexity of Policy Learningfor Inventory Control with Censored Demand,10/16/2023,10:45 AM,10/16/2023,12:00 PM,Part of MB28. Emerging Topics in Inventory and Revenue Management,CC-North 132A
+Talk 2 A Study of Cold Chain Practices Across Four Sectors,10/16/2023,10:45 AM,10/16/2023,12:00 PM,Part of MB84. Agricultural Supply Chains,CC-West 213B
+Talk 2 M/M/s on Demand: Queues with On-Demand and Reserved Servers,10/16/2023,10:45 AM,10/16/2023,12:00 PM,Part of MB28. Emerging Topics in Inventory and Revenue Management,CC-North 132A
+Talk 3 Blockchain-enabled Traceability Of Greenhouse Gas Emissions: Evidence From Moroccan Agriculture Production,10/16/2023,10:45 AM,10/16/2023,12:00 PM,Part of MB84. Agricultural Supply Chains,CC-West 213B
+Talk 3 Selling to a Market with a Finite Population,10/16/2023,10:45 AM,10/16/2023,12:00 PM,Part of MB28. Emerging Topics in Inventory and Revenue Management,CC-North 132A
+Talk 4 Multi-Product Dynamic Upgrades,10/16/2023,10:45 AM,10/16/2023,12:00 PM,Part of MB28. Emerging Topics in Inventory and Revenue Management,CC-North 132A
+Talk 4 The Economics and Optimal Design of Indoor Farming Supply Chains,10/16/2023,10:45 AM,10/16/2023,12:00 PM,Part of MB84. Agricultural Supply Chains,CC-West 213B
+"Talk 5 Taylor Approximation of Inventory Policies for One-Warehouse, Multi-Retailer Systems with Demand Feature Information",10/16/2023,10:45 AM,10/16/2023,12:00 PM,Part of MB28. Emerging Topics in Inventory and Revenue Management,CC-North 132A
+Talk 1 Data Valuation from Data-Driven Optimization,10/16/2023,12:45 PM,10/16/2023,2:00 PM,Part of MC80. Recent Advances in Stochastic Optimization,CC-West 212A
+Talk 3 Order Fulfillment Optimization at Amazon,10/16/2023,12:45 PM,10/16/2023,2:00 PM,Part of MC31. Amazon Supply Chain Optimization,CC-North 221A
+Talk 5 Smart Information Systems for Real-Time AI-Driven Decision Support in Ports,10/16/2023,12:45 PM,10/16/2023,2:00 PM,Part of MC84. Global Supply Chains,CC-West 213B
+Talk 1 Dynamic Budget Allocation for Public Health Procurement: A Multi-Product Inventory Model with Partial Backlogging,10/16/2023,2:15 PM,10/16/2023,3:30 PM,Part of MD62. PSOR Best Paper Award Finalists,CC-West 102A
+Talk 2 Index-Based Yield Protection for Smallholder Farmers,10/16/2023,2:15 PM,10/16/2023,3:30 PM,Part of MD28. Emerging Issues in Sustainable Supply Chains,CC-North 132A
+Talk 2 Leapfrogging for Last-Mile Delivery in Health Care: Drone Delivery for Blood Products in Rwanda,10/16/2023,2:15 PM,10/16/2023,3:30 PM,Part of MD62. PSOR Best Paper Award Finalists,CC-West 102A
+"Talk 3 Food Subsidies at the Base-of-the-Pyramid: Take-Up, Substitution Effects and Nutrition",10/16/2023,2:15 PM,10/16/2023,3:30 PM,Part of MD62. PSOR Best Paper Award Finalists,CC-West 102A
+Talk 3 Reducing Lead and CO2 Emissions from a Deadly Circular Economy,10/16/2023,2:15 PM,10/16/2023,3:30 PM,Part of MD28. Emerging Issues in Sustainable Supply Chains,CC-North 132A
+Talk 4 Influence of Irrelevant Alternatives on Choices with Environmental Attributes,10/16/2023,2:15 PM,10/16/2023,3:30 PM,Part of MD28. Emerging Issues in Sustainable Supply Chains,CC-North 132A
+"Talk 4 Planning Bike Lanes with Data: Ridership, Congestion, and Path Selection",10/16/2023,2:15 PM,10/16/2023,3:30 PM,Part of MD62. PSOR Best Paper Award Finalists,CC-West 102A
+Talk 5 Treatment Planning of Victims with Heterogeneous Time-Sensitivities in Mass Casualty Incidents,10/16/2023,2:15 PM,10/16/2023,3:30 PM,Part of MD62. PSOR Best Paper Award Finalists,CC-West 102A
+Talk 1 Efficient Algorithms for Minimizing Compositions of Convex Functions and Random Functions and Its Applications in Network Revenue Management,10/16/2023,4:00 PM,10/16/2023,5:15 PM,Part of ME06. Network Revenue Management and Supply Chain Interface,CC-North 121C
+Talk 2 The Golden Geese Problem,10/16/2023,4:00 PM,10/16/2023,5:15 PM,Part of ME06. Network Revenue Management and Supply Chain Interface,CC-North 121C
+Talk 3 Combining a Smart Pricing Policy with a Simple Replenishment Policy: Managing Uncertainties in the Presence of Stochastic Purchase Returns,10/16/2023,4:00 PM,10/16/2023,5:15 PM,Part of ME06. Network Revenue Management and Supply Chain Interface,CC-North 121C
+Talk 4 Dynamic Control in On-Demand Inventory Sharing Networks,10/16/2023,4:00 PM,10/16/2023,5:15 PM,Part of ME06. Network Revenue Management and Supply Chain Interface,CC-North 121C
+"Talk 1 Data-driven Decisions In Supply Chains: Contracts, Algorithms And Efficiency",10/17/2023,8:00 AM,10/17/2023,9:15 AM,Part of TA28. Data and Operations,CC-North 132A
+"Talk 2 Planning Bike Lanes with Data: Ridership, Congestion, and Path Selection",10/17/2023,8:00 AM,10/17/2023,9:15 AM,Part of TA28. Data and Operations,CC-North 132A
+Talk 3 Attribute-Based Pricing: A Novel Formulation and Convergent Algorithms,10/17/2023,8:00 AM,10/17/2023,9:15 AM,Part of TA28. Data and Operations,CC-North 132A
+Talk 4 Reinforcement Learning For Pricing And Inventory Control Under Censored Demand,10/17/2023,8:00 AM,10/17/2023,9:15 AM,Part of TA28. Data and Operations,CC-North 132A
+Talk 1 Data-Driven Population Tracking in Large Service Systems,10/17/2023,10:45 AM,10/17/2023,12:00 PM,Part of TB28. Data-Driven Methods for Supply Chain Management,CC-North 132A
+Talk 1 Enhancing Early Childhood Education Outcomes Through Personalized Behavioral Nudges in Resource-Constrained Settings: A Data-Driven Approach,10/17/2023,10:45 AM,10/17/2023,12:00 PM,Part of TB45. Social Good,CC-North 227A
+Talk 1 Restoration of Forest Linear Disturbances from Oil-And-Gas Exploration: How Can Network Models Help?,10/17/2023,10:45 AM,10/17/2023,12:00 PM,Part of TB51. Wild Fire Mitigation and Forest Harvest Planning,CC-North 229B
+Talk 1 Sequential Fair Resource Allocation Under a Markov Decision Process Framework,10/17/2023,10:45 AM,10/17/2023,12:00 PM,Part of TB11. Fairness in Decision-Making,CC-North 124A
+Talk 2 Application of Machine-learning Models for Wildfire Prediction in South Korea,10/17/2023,10:45 AM,10/17/2023,12:00 PM,Part of TB51. Wild Fire Mitigation and Forest Harvest Planning,CC-North 229B
+Talk 2 Assortment Optimization Under the Multivariate MNL Model,10/17/2023,10:45 AM,10/17/2023,12:00 PM,Part of TB28. Data-Driven Methods for Supply Chain Management,CC-North 132A
+Talk 2 Fairness and Budget Flexibility: Advancements in Restless Multi-Armed Bandits for Real-World Planning,10/17/2023,10:45 AM,10/17/2023,12:00 PM,Part of TB11. Fairness in Decision-Making,CC-North 124A
+Talk 2 Optimization Hierarchy for Fair Statistical Decision Problems,10/17/2023,10:45 AM,10/17/2023,12:00 PM,Part of TB16. Fairness in Optimization Models from Operations Management,CC-North 126B
+Talk 2 Survival Bandits,10/17/2023,10:45 AM,10/17/2023,12:00 PM,Part of TB45. Social Good,CC-North 227A
+Talk 3 A Dynamic Learning Policy for Multi-Warehouse Multi-Store Systems with Censored Demands,10/17/2023,10:45 AM,10/17/2023,12:00 PM,Part of TB28. Data-Driven Methods for Supply Chain Management,CC-North 132A
+Talk 3 A Stochastic Model for Forest Harvest Planning Problem,10/17/2023,10:45 AM,10/17/2023,12:00 PM,Part of TB51. Wild Fire Mitigation and Forest Harvest Planning,CC-North 229B
+"Talk 3 Robust, Balanced Dynamic Matching and Its Application to Refugee Resettlement",10/17/2023,10:45 AM,10/17/2023,12:00 PM,Part of TB45. Social Good,CC-North 227A
+Talk 3 Stochastic Online Fisher Markets: Static Pricing Limits and Adaptive Enhancements,10/17/2023,10:45 AM,10/17/2023,12:00 PM,Part of TB11. Fairness in Decision-Making,CC-North 124A
+Talk 4 Fairness Auditing in Urban Decisions Using Lp-Based Data Combination,10/17/2023,10:45 AM,10/17/2023,12:00 PM,Part of TB11. Fairness in Decision-Making,CC-North 124A
+Talk 4 Learning and Planning Under Uncertainty for Wildlife Conservation,10/17/2023,10:45 AM,10/17/2023,12:00 PM,Part of TB45. Social Good,CC-North 227A
+Talk 4 Unit Commitment without Commitment: A Dynamic Framework for Managing an Integrated Energy System,10/17/2023,10:45 AM,10/17/2023,12:00 PM,Part of TB28. Data-Driven Methods for Supply Chain Management,CC-North 132A
+Talk 1 Assessing the Resilience of Supply Chains to Climate Change:Building a Climate-Resilient Supply Chain and Enhancing Competitiveness,10/17/2023,12:45 PM,10/17/2023,2:00 PM,Part of TC76. Supply Chain Risk and Resilience,CC-West 208B
+Talk 1 Can Tax-Subsidies for Charitable Donations Foster Accessibility to Fresh Goods?,10/17/2023,12:45 PM,10/17/2023,2:00 PM,"Part of TC28. Supply Chains, Operations, and ESG Outcomes",CC-North 132A
+Talk 2 Enhancing Transportation Network Resiliency: Pre-Event Disaster Mitigation Interventions,10/17/2023,12:45 PM,10/17/2023,2:00 PM,Part of TC61. Disaster Management & Humanitarian Logistics,CC-West  101C
+Talk 2 Improving Labor Outcomes: The Role of Operations and Supply Chains,10/17/2023,12:45 PM,10/17/2023,2:00 PM,"Part of TC28. Supply Chains, Operations, and ESG Outcomes",CC-North 132A
+Talk 2 Research on the Impact of Supply Chain Network Structure on Firm Innovation Performance,10/17/2023,12:45 PM,10/17/2023,2:00 PM,Part of TC76. Supply Chain Risk and Resilience,CC-West 208B
+Talk 3 Forecasting Estimated Arrival Time (ETA) with Confidence for Supply Shipments in a Globalized Supply Chain,10/17/2023,12:45 PM,10/17/2023,2:00 PM,Part of TC76. Supply Chain Risk and Resilience,CC-West 208B
+Talk 3 Plastic Recycling in Agriculture Industry,10/17/2023,12:45 PM,10/17/2023,2:00 PM,"Part of TC28. Supply Chains, Operations, and ESG Outcomes",CC-North 132A
+Talk 4 Resilience and Digital Transformation of the Food Supply Chains,10/17/2023,12:45 PM,10/17/2023,2:00 PM,Part of TC76. Supply Chain Risk and Resilience,CC-West 208B
+Talk 1 Clustering and Reinforcement Learning Approaches in Digital Supply Chains Analytics,10/17/2023,2:15 PM,10/17/2023,3:30 PM,Part of TD26. Analytics in Complex Supply Chains,CC-North 131B
+Talk 1 Data Privacy in Pricing: Estimation Bias and Implications,10/17/2023,2:15 PM,10/17/2023,3:30 PM,Part of TD07. Learning and Decision-Making in Operations Management,CC-North 122A
+Talk 2 Active Label Acquisition with Personalized Incentives in Assortment Optimization,10/17/2023,2:15 PM,10/17/2023,3:30 PM,Part of TD07. Learning and Decision-Making in Operations Management,CC-North 122A
+Talk 2 Optimal Resource Allocation for Remediating Networked Contagions,10/17/2023,2:15 PM,10/17/2023,3:30 PM,Part of TD26. Analytics in Complex Supply Chains,CC-North 131B
+Talk 3 Estimate-then-optimize Versus Integrated-estimation-optimization Versus Sample Average Approximation: A Stochastic Dominance Perspective,10/17/2023,2:15 PM,10/17/2023,3:30 PM,Part of TD07. Learning and Decision-Making in Operations Management,CC-North 122A
+Talk 3 Platform Design for the First Mile of Commodity Supply Chains,10/17/2023,2:15 PM,10/17/2023,3:30 PM,Part of TD26. Analytics in Complex Supply Chains,CC-North 131B
+Talk 4 Pasta: Pessimistic Assortment Optimization,10/17/2023,2:15 PM,10/17/2023,3:30 PM,Part of TD07. Learning and Decision-Making in Operations Management,CC-North 122A
+Talk 4 The Operational Origins of Child Labor in Cocoa Production,10/17/2023,2:15 PM,10/17/2023,3:30 PM,Part of TD26. Analytics in Complex Supply Chains,CC-North 131B
+Talk 5 Best Arm Identification in Batched Multi-Armed Bandit Problems,10/17/2023,2:15 PM,10/17/2023,3:30 PM,Part of TD07. Learning and Decision-Making in Operations Management,CC-North 122A
+Talk 1 An (Empirical) Law of Data Separation in Deep Learning,10/17/2023,4:00 PM,10/17/2023,5:15 PM,Part of TE37. Understanding Generalization of Optimization Algorithms in Machine Learning,CC-North 223
+Talk 2 On the Role of Attention in Prompt-Tuning,10/17/2023,4:00 PM,10/17/2023,5:15 PM,Part of TE37. Understanding Generalization of Optimization Algorithms in Machine Learning,CC-North 223
+Talk 3 Optimization and Generalization for Contrastive Self-Supervised Learning,10/17/2023,4:00 PM,10/17/2023,5:15 PM,Part of TE37. Understanding Generalization of Optimization Algorithms in Machine Learning,CC-North 223
+Talk 1 A Data-Driven Strategy to Predict Incident Hotspots,10/18/2023,9:30 AM,10/18/2023,10:45 AM,Part of WB45. Machine Learning Applications in Disaster Management,CC-North 227A
+Talk 2 Surge Level Responses in Emergency Medical Services,10/18/2023,9:30 AM,10/18/2023,10:45 AM,Part of WB45. Machine Learning Applications in Disaster Management,CC-North 227A
+Talk 3 Integrating Ml-Based Reverse Engineering of Cge Models with Optimization for Enhancing Resilience,10/18/2023,9:30 AM,10/18/2023,10:45 AM,Part of WB45. Machine Learning Applications in Disaster Management,CC-North 227A
+Talk 4 Monitoring the Mental Health of Individuals Post Earthquake Through Space Time Textual Analysis,10/18/2023,9:30 AM,10/18/2023,10:45 AM,Part of WB45. Machine Learning Applications in Disaster Management,CC-North 227A
+Talk 5 A Deep Learning Approach for Predicting Traffic During Evacuation Using Social and Infrastructure Sensors Data: A Case Study from Hurricane Ian,10/18/2023,9:30 AM,10/18/2023,10:45 AM,Part of WB45. Machine Learning Applications in Disaster Management,CC-North 227A
