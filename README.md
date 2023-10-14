@@ -7,7 +7,7 @@ This little repository has some bare-bones (not rigorously tested) python code t
  - Use the Engagefully app and add the sessions you want to your calendar.  I did this on mobile.
  - Export the calendar using the share functionality of your phone.  On iPhone, this generated a .txt file. A sample .txt file of output is available in the repo as `raw_my_informs_talks.txt'
  - Run the code in the above notebook.  It should create a output.csv file that has parsed the data into a suitable format.  A sample output.csv file is in the repo.
- - Follow these instructions [these instructions]([https://www.google.com](https://support.google.com/calendar/answer/37095?hl=en)https://support.google.com/calendar/answer/37095?hl=en) to create a  new calendar in google calendar.  You can do this in MST (for Phoenix, AZ).
+ - Follow these instructions [these instructions](https://support.google.com/calendar/answer/37095?hl=en) to create a  new calendar in google calendar.  You can do this in MST (for Phoenix, AZ).
  - Follow [these instructions](https://support.google.com/calendar/answer/37118?hl=en&co=GENIE.Platform%3DDesktop) to import events to your new calendar.  Be sure to add them to the calendar you just created.
  - Enjoy.  If anything goes screwy in the input process, you can just delete the calendar and try again.
 
